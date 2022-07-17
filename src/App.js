@@ -14,15 +14,15 @@ const ART_PIECES = [
     imgPath: '/Motive of Space and Form.jpg',
   },
   {
-    title: 'New Hampshire Town',
+    title: 'A New Hampshire Town',
     imgPath: '/New Hampshire Town.PNG',
   },
   {
-    title: 'New England Town',
+    title: 'A New England Town',
     imgPath: '/New England Town.PNG',
   },
   {
-    title: 'Young Tree',
+    title: 'Young Tree in Red Courtyard',
     imgPath: '/Young Tree.PNG',
   },
   {
@@ -42,7 +42,7 @@ const ART_PIECES = [
     imgPath: '/Untitled.PNG',
   },
   {
-    title: 'Last Evening',
+    title: 'Last Evening of the Year',
     imgPath: '/Last Evening.jpg',
   },
   {
@@ -50,7 +50,7 @@ const ART_PIECES = [
     imgPath: '/Ascension.PNG',
   },
   {
-    title: 'Church In Newark',
+    title: 'A Church In Newark',
     imgPath: '/Church In Newark.PNG',
   },
 ]
