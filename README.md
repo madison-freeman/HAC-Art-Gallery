@@ -14,7 +14,7 @@ Oscar Bluemner Exhibit</h1>
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/cynthiachiu/3D-Art-Gallery?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/madison-freeman/HAC-Art-Gallery?color=56BEB8">
+  <img alt="Github language count" src="https://github/languages/count/madison-freeman/HAC-Art-Gallery?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/madison-freeman/HAC-Art-Gallery?color=56BEB8">
 
