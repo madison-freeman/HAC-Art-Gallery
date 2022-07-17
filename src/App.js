@@ -38,8 +38,8 @@ const ART_PIECES = [
     imgPath: '/Moonlight Fantasy.PNG',
   },
   {
-    title: 'Paradise',
-    imgPath: '/paradise.jpeg',
+    title: 'Untitled',
+    imgPath: '/Untitled.PNG',
   },
   {
     title: 'Friendship',
