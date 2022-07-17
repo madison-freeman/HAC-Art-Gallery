@@ -46,8 +46,8 @@ const ART_PIECES = [
     imgPath: '/Last Evening.jpg',
   },
   {
-    title: 'Wanderlust',
-    imgPath: '/wonder.jpeg',
+    title: 'Ascension',
+    imgPath: '/Ascension.PNG',
   },
   {
     title: 'Serenity',
