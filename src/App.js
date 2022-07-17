@@ -22,8 +22,8 @@ const ART_PIECES = [
     imgPath: '/New England Town.PNG',
   },
   {
-    title: 'Purity',
-    imgPath: '/kindness.jpeg',
+    title: 'Young Tree',
+    imgPath: '/Young Tree.PNG',
   },
   {
     title: 'Lonely Together',
