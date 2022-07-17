@@ -5,8 +5,9 @@
 
   <a href="https://cynthia-3d-art-gallery.netlify.app/">Demo</a>
 </div>
-<h1 align="center">Stetson University</h1>
-<h1 align="center">Hand Art Center</h1>
+<h1 align="center">Stetson University
+	
+Hand Art Center</h1>
 <h2 align="center">Oscar Bluemner Exhibit</h2>
 
 <p align="center">
