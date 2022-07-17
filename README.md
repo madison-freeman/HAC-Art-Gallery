@@ -102,7 +102,7 @@ $ npm start
 This project is under license from BSD. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/madison-freeman" target="_blank">madison-freeman</a>
+Made by <a href="https://github.com/madison-freeman" target="_blank">madison-freeman</a>
 
 &#xa0;
 
