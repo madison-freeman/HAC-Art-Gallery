@@ -18,8 +18,8 @@ const ART_PIECES = [
     imgPath: '/New Hampshire Town.PNG',
   },
   {
-    title: 'Gentle Giant',
-    imgPath: '/horse_sketch.jpeg',
+    title: 'New England Town',
+    imgPath: '/New England Town.PNG',
   },
   {
     title: 'Purity',
