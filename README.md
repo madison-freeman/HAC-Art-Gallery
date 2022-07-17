@@ -47,14 +47,14 @@ Oscar Bluemner Exhibit</h1>
 
 <br>
 
-## :dart: About ##
+## About ##
 
 An interactive, 3D Art Gallery featuring the current paintings and sketchings of Oscar Bluemner. This is a React-based application that leverages React-Three-Fiber to renders Bluemner's art in 3D with moving spotlights, smooth horizontal scrolling, interactive mouse movement, realistic lighting with shadows, and postprocessing to add effects to the scene including noise and filters.
 
 See and play with my deployed demo at: https://cynthia-3d-art-gallery.netlify.app/
 
 
-## :sparkles: Features ##
+## Features ##
 
 :heavy_check_mark: React-based application using 3D web technology;\
 :heavy_check_mark: 3D Rendering of Bluemner paintings and sketches;\
@@ -62,7 +62,7 @@ See and play with my deployed demo at: https://cynthia-3d-art-gallery.netlify.ap
 :heavy_check_mark: Moving spotlights that highlight the current piece of art and cast realistic shadows;\
 :heavy_check_mark: Postprocessing scene effects;
 
-## :rocket: Technologies ##
+## Technologies ##
 
 The following tools were used in this project:
 
@@ -75,7 +75,7 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
+## Starting ##
 
 ```bash
 # Clone this project
@@ -93,7 +93,7 @@ $ npm start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## :memo: License ##
+## License ##
 
 This project is under license from BSD. For more details, see the [LICENSE](LICENSE.md) file.
 
