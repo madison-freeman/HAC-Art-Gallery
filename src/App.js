@@ -7,7 +7,7 @@ import { TextureLoader, Vector3 } from 'three'
 const ART_PIECES = [
   {
     title: 'Earth Sets on Moon',
-    imgPath: '/beauty_and_beast.jpeg',
+    imgPath: '/Earth Sets on Moon.jpg',
   },
   {
     title: 'Stillness',
