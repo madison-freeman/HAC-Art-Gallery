@@ -3,7 +3,7 @@
 
   &#xa0;
 
-  <a href="https://cynthia-3d-art-gallery.netlify.app/">Demo</a>
+  <a href="https://62d42c90f459cd662f10d915--madisonfreeman.netlify.app/">Demo link</a>
 </div>
 <h1 align="center">Stetson University
 	
