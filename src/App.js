@@ -10,8 +10,8 @@ const ART_PIECES = [
     imgPath: '/Earth Sets On Moon.jpg',
   },
   {
-    title: 'Stillness',
-    imgPath: '/crane.jpeg',
+    title: 'Motive of Space and Form',
+    imgPath: '/Motive of Space and Form',
   },
   {
     title: 'Foxy',
