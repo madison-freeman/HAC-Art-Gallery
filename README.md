@@ -8,6 +8,7 @@
 <h1 align="center">Stetson University
 	
 Hand Art Center</h1>
+
 <h2 align="center">Oscar Bluemner Exhibit</h2>
 
 <p align="center">
