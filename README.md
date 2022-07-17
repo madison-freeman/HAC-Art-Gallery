@@ -1,11 +1,11 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="3D Art Gallery" />
+  <img src="./.github/app.gif" alt="Hand Art Center" />
 
   &#xa0;
 
   <a href="https://cynthia-3d-art-gallery.netlify.app/">Demo</a>
 </div>
-
+<h1 align="center">Stetson University</h1>
 <h1 align="center">Hand Art Center</h1>
 <h2 align="center">Oscar Bluemner Exhibit</h2>
 
