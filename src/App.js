@@ -30,8 +30,8 @@ const ART_PIECES = [
     imgPath: '/Imagination.PNG',
   },
   {
-    title: 'Owl',
-    imgPath: '/owl.jpeg',
+    title: 'Summer Night',
+    imgPath: '/Summer Night.PNG',
   },
   {
     title: 'Menace',
