@@ -34,8 +34,8 @@ const ART_PIECES = [
     imgPath: '/Summer Night.PNG',
   },
   {
-    title: 'Menace',
-    imgPath: '/panther.jpeg',
+    title: 'Moonlight Fantasy',
+    imgPath: '/Moonlight Fantasy.PNG',
   },
   {
     title: 'Paradise',
