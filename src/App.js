@@ -14,8 +14,8 @@ const ART_PIECES = [
     imgPath: '/Motive of Space and Form.jpg',
   },
   {
-    title: 'Foxy',
-    imgPath: '/foxy.jpeg',
+    title: 'New Hampshire Town',
+    imgPath: '/New Hampshire Town.png',
   },
   {
     title: 'Gentle Giant',
