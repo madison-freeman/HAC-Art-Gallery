@@ -6,7 +6,8 @@
   <a href="https://cynthia-3d-art-gallery.netlify.app/">Demo</a>
 </div>
 
-<h1 align="center">Art Gallery</h1>
+<h1 align="center">Hand Art Center</h1>
+<h2 align="center">Oscar Bluemner Exhibit</h2>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/cynthiachiu/3D-Art-Gallery?color=56BEB8">
