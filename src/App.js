@@ -26,8 +26,8 @@ const ART_PIECES = [
     imgPath: '/Young Tree.PNG',
   },
   {
-    title: 'Lonely Together',
-    imgPath: '/lonely_together.jpeg',
+    title: 'Imagination',
+    imgPath: '/Imagination.PNG',
   },
   {
     title: 'Owl',
