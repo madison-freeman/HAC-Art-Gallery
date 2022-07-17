@@ -12,11 +12,11 @@
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/cynthiachiu/3D-Art-Gallery?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/cynthiachiu/3D-Art-Gallery?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/madison-freeman/HAC-Art-Gallery?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/cynthiachiu/3D-Art-Gallery?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/madison-freeman/HAC-Art-Gallery?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/cynthiachiu/3D-Art-Gallery?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/madison-freeman/HAC-Art-Gallery?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/art-gallery?color=56BEB8" /> -->
 
@@ -28,7 +28,7 @@
 <!-- Status -->
 
 <!-- <h4 align="center"> 
-	🚧  Art Gallery 🚀 Under construction...  🚧
+	Stetson University 🚧 Hand Art Center 🚀 Under construction...  🚧
 </h4> 
 
 <hr> -->
@@ -47,7 +47,7 @@
 
 ## :dart: About ##
 
-An interactive, 3D art gallery featuring paintings and sketchings that I have done over the past while. This is a React-based application that leverages React-Three-Fiber to render my art in 3D with moving spotlights, smooth horizontal scrolling, interactive mouse movement, realistic lighting with shadows, and postprocessing to add effects to the scene including noise and filters.
+An interactive, 3D Art Gallery featuring the current paintings and sketchings of Oscar Bluemner. This is a React-based application that leverages React-Three-Fiber to renders Bluemner's art in 3D with moving spotlights, smooth horizontal scrolling, interactive mouse movement, realistic lighting with shadows, and postprocessing to add effects to the scene including noise and filters.
 
 See and play with my deployed demo at: https://cynthia-3d-art-gallery.netlify.app/
 
@@ -59,7 +59,7 @@ https://user-images.githubusercontent.com/20048911/167222076-aeb6a9a5-eb95-452f-
 ## :sparkles: Features ##
 
 :heavy_check_mark: React-based application using 3D web technology;\
-:heavy_check_mark: 3D Rendering of my paintings and sketches;\
+:heavy_check_mark: 3D Rendering of Bluemner paintings and sketches;\
 :heavy_check_mark: Interactive mouse movement;\
 :heavy_check_mark: Moving spotlights that highlight the current piece of art and cast realistic shadows;\
 :heavy_check_mark: Postprocessing scene effects;
@@ -81,10 +81,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/cynthiachiu/3D-Art-Gallery
+$ git clone https://github.com/madison-freeman/HAC-Art-Gallery
 
 # Access
-$ cd 3D-Art-Gallery
+$ cd HAC-Art-Gallery
 
 # Install dependencies
 $ npm i
@@ -97,10 +97,10 @@ $ npm start
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
+This project is under license from BSD. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/cynthiachiu" target="_blank">cynthiachiu</a>
+Made with :heart: by <a href="https://github.com/madison-freeman" target="_blank">madison-freeman</a>
 
 &#xa0;
 
