@@ -42,8 +42,8 @@ const ART_PIECES = [
     imgPath: '/Untitled.PNG',
   },
   {
-    title: 'Friendship',
-    imgPath: '/sprited_away.jpeg',
+    title: 'Last Evening',
+    imgPath: '/Last Evening.jpg',
   },
   {
     title: 'Wanderlust',
