@@ -12,13 +12,11 @@ Hand Art Center
 Oscar Bluemner Exhibit</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/madison-freeman/HAC-Art-Gallery?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/madison-freeman/HAC-Art-Gallery?color=56BEB8style=plastic">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/madison-freeman/HAC-Art-Gallery?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/madison-freeman/HAC-Art-Gallery?color=56BEB8style=plastic">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/madison-freeman/HAC-Art-Gallery?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/madison-freeman/HAC-Art-Gallery?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/madison-freeman/HAC-Art-Gallery?color=56BEB8style=plastic">
 	
   <img alt="GitHub" src="https://img.shields.io/github/license/madison-freeman/HAC-Art-Gallery?color=56BEB8&style=plastic">
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/art-gallery?color=56BEB8" /> -->
