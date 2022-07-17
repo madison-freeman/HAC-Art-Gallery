@@ -127,7 +127,7 @@ const Scene = () => {
             font="https://fonts.gstatic.com/s/sacramento/v5/buEzpo6gcdjy0EiZMBUG4C0f-w.woff"
             castShadow
           >
-            Creativity is allowing yourself to make mistakes.
+            Stetson University
           </Text>
           <Text
             position-z={1}
@@ -139,16 +139,18 @@ const Scene = () => {
             font="https://fonts.gstatic.com/s/sacramento/v5/buEzpo6gcdjy0EiZMBUG4C0f-w.woff"
             castShadow
           >
-            Art is knowing which ones to keep.
+            Hand Art Center
           </Text>
           <Text
             position={[0, -0.5, 1.5]}
             anchorX="center"
             anchorY="top"
+            scale={[textScale, textScale, textScale]}
+            color="#6aeb86"
             font="https://fonts.gstatic.com/s/sacramento/v5/buEzpo6gcdjy0EiZMBUG4C0f-w.woff"
-          // castShadow
+            castShadow
           >
-            ~ Scott Adams
+            Oscar Bluemner
           </Text>
 
           {ART_PIECES.map((art, i) => {
