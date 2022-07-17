@@ -11,7 +11,7 @@ const ART_PIECES = [
   },
   {
     title: 'Motive of Space and Form',
-    imgPath: '/Motive of Space and Form',
+    imgPath: '/Motive of Space and Form.jpg',
   },
   {
     title: 'Foxy',
