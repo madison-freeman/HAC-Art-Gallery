@@ -50,8 +50,8 @@ const ART_PIECES = [
     imgPath: '/Ascension.PNG',
   },
   {
-    title: 'Serenity',
-    imgPath: '/forest.jpeg',
+    title: 'Church In Newark',
+    imgPath: '/Church In Newark.PNG',
   },
 ]
 
