@@ -48,7 +48,7 @@ Oscar Bluemner Exhibit</h1>
 
 ## About ##
 
-This is an interactive, 3D Art Gallery showcasing Stetson University's current selection paintings and sketchings of Oscar Bluemner. The application based in React and leverages React-Three-Fiber to render  Bluemner's art in 3D with moving spotlights, smooth horizontal scrolling, interactive mouse movement, realistic lighting with shadows, and postprocessing to add effects to the scene including noise and filters.
+This is an interactive, 3D Art Gallery showcasing Stetson University's current selection of paintings and sketchings by Oscar Bluemner. The application based in React and leverages React-Three-Fiber to render  Bluemner's art in 3D with moving spotlights, smooth horizontal scrolling, interactive mouse movement, realistic lighting with shadows, and postprocessing to add effects to the scene including noise and filters.
 
 See and play with my deployed demo at: https://madisonfreeman.netlify.app/
 
